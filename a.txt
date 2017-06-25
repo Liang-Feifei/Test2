@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 The first commit --master
 The second commit  --master
+||||||| merged common ancestors
+The first commit --master
+=======
+The first commit --master
+The branch1
+>>>>>>> branch1
